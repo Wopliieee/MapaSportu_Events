@@ -1,10 +1,12 @@
 [
   {
-    "title": "pierwszy event",
-    "src": "https://r-scale-f2.dcs.redcdn.pl/scale/o2/tvn/web-content/m/p107/i/08040837089cdf46631a10aca5258e16/eeedc8b0-26a2-452e-a7f9-897fa79acf48.jpg?type=1&srcmode=3&srcx=1%2F2&srcy=1%2F2&srcw=1920&srch=1080&dstw=1920&dsth=1080&quality=75"
+    "title": "Sportowy Dzień Dziecka",
+    "src": "https://scontent-waw1-1.xx.fbcdn.net/v/t1.0-9/60187297_2054496544677724_6822893881449775104_n.jpg?_nc_cat=108&_nc_ht=scontent-waw1-1.xx&oh=43e625c7de9c94946986cd1f4ee33ceb&oe=5D91DAC9",
+    "date": "01.06.2019"
   },
   {
-    "title": "drugi event",
-    "src": "http://static.prsa.pl/images/9c0f4665-3307-4666-bafa-5c88d785412d.jpg"
+    "title": "Sylwestra z Andrzejem Dudą",
+    "src": "http://static.prsa.pl/images/9c0f4665-3307-4666-bafa-5c88d785412d.jpg",
+    "date": "24.12.2018"
   }
 ]
